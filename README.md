@@ -1,2 +1,4 @@
 # fantasy-football-chatbot
-for school
+A Project for ENGCMP 0600
+
+Made by Preston, Tyler, Lenny, Rohan, and Lucas.
